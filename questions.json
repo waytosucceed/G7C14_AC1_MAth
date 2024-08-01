@@ -1,0 +1,415 @@
+[
+  {
+    "questionNo": "Q1",
+    "question": "Zara needs to name the angle formed in the figure given below. What is the name of the angle formed in the figure?",
+    "options": [
+      "∠ABC",
+      "∠BAC",
+      "∠CAB",
+      "Both B and C"
+    ],
+    "correct": 3,
+    "img": "./assests/images/1.jpg"
+  },
+  {
+    "questionNo": "Q2",
+    "question": "While designing the pathways in the park, Zara identifies an angle formed by the two paths. What is the name of the angle formed in the figure?",
+    "options": [
+      "∠EDC",
+      "∠DCE",
+      "∠C",
+      "None of the above"
+    ],
+    "correct": 0,
+    "img": "./assests/images/2.jpg"
+  },
+  {
+    "questionNo": "Q3",
+    "question": "During the design review, Zara points out that an angle formed by a sidewalk intersection is labelled as ∠3. Is Zara's statement correct?",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correct": 0,
+    "img": "./assests/images/3.jpg"
+  },
+  {
+    "questionNo": "Q4",
+    "question": "While presenting her design, Zara mentions that the given angle can be named in four ways: ∠F, ∠4, ∠EFG, ∠GFE. Is this statement true or false?",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correct": 0,
+    "img": "./assests/images/4.jpg"
+  },
+  {
+    "questionNo": "Q5",
+    "question": "Zara notes that the angle labelled as ∠1 can also be named as ∠FEG. Is Zara's statement correct?",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correct": 1,
+    "img": "./assests/images/5.jpg"
+  },
+  {
+    "questionNo": "Q6",
+    "question": "Zara encountered an angle between two roads in the park. Estimate the size of this angle.",
+    "options": [
+      "90°",
+      "112°",
+      "32°",
+      "75°"
+    ],
+    "correct": 2,
+    "img": "./assests/images/6.jpg"
+  },
+  {
+    "questionNo": "Q7",
+    "question": "Zara noticed another angle formed by two pathways in the park. Estimate the size of this angle.",
+    "options": [
+      "59°",
+      "99°",
+      "129°",
+      "145°"
+    ],
+    "correct": 0,
+    "img": "./assests/images/7.jpg"
+  },
+  {
+    "questionNo": "Q8",
+    "question": "In one section of the park, Zara saw an angle as shown below in the figure. Choose the best estimation for this angle.",
+    "options": [
+      "50°",
+      "180°",
+      "345°",
+      "140°"
+    ],
+    "correct": 2,
+    "img": "./assests/images/8.jpg"
+  },
+  {
+    "questionNo": "Q9",
+    "question": "Looking at the layout of the park, Zara identified an angle formed by the walking paths. Choose the best estimation for this angle.",
+    "options": [
+      "287°",
+      "118°",
+      "138°",
+      "210°"
+    ],
+    "correct": 0,
+    "img": "./assests/images/9.jpg"
+  },
+  {
+    "questionNo": "Q10",
+    "question": "Zara had to estimate another angle while designing the park's layout. Choose the best estimation for this angle.",
+    "options": [
+      "195°",
+      "60°",
+      "115°",
+      "90°"
+    ],
+    "correct": 2,
+    "img": "./assests/images/10.jpg"
+  },
+  {
+    "questionNo": "Q11",
+    "question": "While working on the park's design, Zara saw an angle that appeared to be nearly straight. Choose the best estimation for this angle.",
+    "options": [
+      "115°",
+      "167°",
+      "50°",
+      "34°"
+    ],
+    "correct": 1,
+    "img": "./assests/images/11.jpg"
+  },
+  {
+    "questionNo": "Q12",
+    "question": "Zara measured an angle formed in the park. Estimate the size of this angle.",
+    "options": [
+      "360°",
+      "90°",
+      "180°",
+      "45°"
+    ],
+    "correct": 2,
+    "img": "./assests/images/12.jpg"
+  },
+  {
+    "questionNo": "Q13",
+    "question": "Zara needed to confirm the size of another angle in her design. Choose the best estimation for this angle.",
+    "options": [
+      "360°",
+      "87°",
+      "180°",
+      "45°"
+    ],
+    "correct": 1,
+    "img": "./assests/images/13.jpg"
+  },
+  {
+    "questionNo": "Q14",
+    "question": "In her design, Zara observed that road OB intersects road OA at point O, forming an angle ∠AOB, what is the vertex of the angle?",
+    "options": [
+      "A",
+      "O",
+      "B",
+      "None of the above"
+    ],
+    "correct": 1,
+    "img": "./assests/images/14.jpg"
+  },
+  {
+    "questionNo": "Q15",
+    "question": "Zara looked at a figure in her design. What is the vertex of the given figure?",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "None of the above"
+    ],
+    "correct": 1,
+    "img": "./assests/images/15.jpg"
+  },
+  {
+    "questionNo": "Q16",
+    "question": "Zara identified a vertex in another figure in her design. What is the vertex?",
+    "options": [
+      "H",
+      "G",
+      "F",
+      "GH"
+    ],
+    "correct": 1,
+    "img": "./assests/images/16.jpg"
+  },
+  {
+    "questionNo": "Q17",
+    "question": "Zara examined a figure and identified its arms. What are the arms of the given figure?",
+    "options": [
+      "UV and WV",
+      "U",
+      "V",
+      "UW and UV"
+    ],
+    "correct": 0,
+    "img": "./assests/images/17.jpg"
+  },
+  {
+    "questionNo": "Q18",
+    "question": "Zara named the arms in another figure. What are the arms of the given figure?",
+    "options": [
+      "T and U",
+      "ST and US",
+      "ST and UT",
+      "SU and UT"
+    ],
+    "correct": 2,
+    "img": "./assests/images/18.jpg"
+  },
+  {
+    "questionNo": "Q19",
+    "question": "In the park’s design Zara needs to identify the arms in the figure below.",
+    "options": [
+      "L and N",
+      "LM and NM",
+      "LN and MN",
+      "None of the above"
+    ],
+    "correct": 1,
+    "img": "./assests/images/19.jpg"
+  },
+  {
+    "questionNo": "Q20",
+    "question": "Zara had to identify a specific angle in a figure. Identify the given angle in the figure below.",
+    "options": [
+      "Acute angle",
+      "Obtuse angle",
+      "Reflex angle",
+      "Straight angle"
+    ],
+    "correct": 0,
+    "img": "./assests/images/20.jpg"
+  },
+  {
+    "questionNo": "Q21",
+    "question": "Zara looked at another figure and had to determine the type of angle. What type of angle is described in the figure given below?",
+    "options": [
+      "Reflex angle",
+      "Straight angle",
+      "Acute angle",
+      "Obtuse angle"
+    ],
+    "correct": 2,
+    "img": "./assests/images/21.jpg"
+  },
+  {
+    "questionNo": "Q22",
+    "question": "Zara sketched a design for a playground corner and needed to determine the type of angle formed by the paths. What type of angle is described in the figure given below?",
+    "options": [
+      "Reflex angle",
+      "Straight angle",
+      "Acute angle",
+      "Obtuse angle"
+    ],
+    "correct": 3,
+    "img": "./assests/images/22.jpg"
+  },
+  {
+    "questionNo": "Q23",
+    "question": "While drafting the park's central fountain area, Zara had to identify the type of angle created by two decorative beams. What type of angle is given in the figure below?",
+    "options": [
+      "Acute angle",
+      "Right angle",
+      "Obtuse angle",
+      "Reflex angle"
+    ],
+    "correct": 2,
+    "img": "./assests/images/23.jpg"
+  },
+  {
+    "questionNo": "Q24",
+    "question": "Zara analysed the angles formed by seating arrangements in the park's amphitheatre. What type of angle is given in the figure below?",
+    "options": [
+      "Reflex angle",
+      "Obtuse angle",
+      "Acute angle",
+      "None of the above"
+    ],
+    "correct": 0,
+    "img": "./assests/images/24.jpg"
+  },
+  {
+    "questionNo": "Q25",
+    "question": "While planning the layout of the park's flower beds, Zara had to identify the type of angle created by the garden paths. What type of angle is given in the figure below?",
+    "options": [
+      "Acute angle",
+      "Right angle",
+      "Obtuse angle",
+      "Reflex angle"
+    ],
+    "correct": 3,
+    "img": "./assests/images/25.jpg"
+  },
+  {
+    "questionNo": "Q26",
+    "question": "Zara measured an angle at the corner of a playground that was 145°. What type of angle is 145°?",
+    "options": [
+      "Acute angle",
+      "Right angle",
+      "Obtuse angle",
+      "Straight angle"
+    ],
+    "correct": 2,
+    "img": "./assests/images/26.jpg"
+  },
+  {
+    "questionNo": "Q27",
+    "question": "In designing the walking paths, Zara noticed that two paths meet at an angle. She measured the angle and found it to be 89.3°. What type of angle is formed by the paths?",
+    "options": [
+      "Acute angle",
+      "Right angle",
+      "Obtuse angle",
+      "Straight angle"
+    ],
+    "correct": 0,
+    "img": "./assests/images/27.jpg"
+  },
+  {
+    "questionNo": "Q28",
+    "question": "Zara used a protractor to measure an angle formed by two pathways and found it to be 180°. What is the name of this angle?",
+    "options": [
+      "Acute angle",
+      "Right angle",
+      "Reflex angle",
+      "Straight angle"
+    ],
+    "correct": 3,
+    "img": "./assests/images/28.jpg"
+  },
+  {
+    "questionNo": "Q31",
+    "question": "To construct a swing in the park Zara needs to find the value of the missing angle. What will be the value of the missing angle in the given figure?",
+    "options": [
+      "180°",
+      "50°",
+      "140°",
+      "130°"
+    ],
+    "correct": 3,
+    "img": "./assests/images/31.jpg"
+  },
+  {
+    "questionNo": "Q32",
+    "question": "While designing a circular flower bed in the park, Zara encountered a figure with a missing angle. Find the value of the missing angle in the given figure.",
+    "options": [
+      "110°",
+      "130°",
+      "120°",
+      "140°"
+    ],
+    "correct": 2,
+    "img": "./assests/images/32.jpg"
+  },
+  {
+    "questionNo": "Q33",
+    "question": "Zara needed to determine the value of the missing angle in a different figure while planning the layout of the park's winding walking paths. Find the value of the missing angle in the given figure.",
+    "options": [
+      "85°",
+      "75°",
+      "65°",
+      "95°"
+    ],
+    "correct": 0,
+    "img": "./assests/images/33.jpg"
+  },
+  {
+    "questionNo": "Q34",
+    "question": "While arranging the seating areas around the central fountain, Zara examined a figure with a small missing angle. Find the value of the missing angle in the given figure.",
+    "options": [
+      "20°",
+      "10°",
+      "30°",
+      "40°"
+    ],
+    "correct": 1,
+    "img": "./assests/images/34.jpg"
+  },
+  {
+    "questionNo": "Q35",
+    "question": "To finalise the design of the park's playground, Zara had to find the value of the missing angle in a figure depicting the swing set area. Find the value of the missing angle in the given figure.",
+    "options": [
+      "20°",
+      "30°",
+      "10°",
+      "40°"
+    ],
+    "correct": 0,
+    "img": "./assests/images/35.jpg"
+  },
+  {
+    "questionNo": "Q29",
+    "question": "While designing the layout for a long, straight walking path through the park, Zara encountered several angles. Which of the following is a straight angle that she would use to ensure the path is perfectly aligned?",
+    "options": [
+      "img1.png",
+      "img2.png",
+      "mg3.png",
+      "img4.png"
+    ],
+    "correct": 3
+    
+  },
+  {
+    "questionNo": "Q30",
+    "question": "In another part of the park, Zara had to create a unique seating area with a circular arrangement. She needed to identify the reflex angle formed by the intersecting seating segments to complete the design. Which of the following is a reflex angle?",
+    "options": [
+      "5.png",
+      "6.png",
+      "7.png",
+      "8.png"
+    ],
+    "correct": 1
+  }
+]
